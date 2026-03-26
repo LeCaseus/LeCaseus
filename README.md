@@ -55,7 +55,7 @@ Right now I'm focused on local AI — specifically, how much you can get out of 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Portfolio-lecaseus.github.io-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://lecaseus.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-URL-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LeCaseus)
 [![Location](https://img.shields.io/badge/%F0%9F%93%8D_Wellington%2C_NZ-444?style=for-the-badge)]()
 
 </div>
