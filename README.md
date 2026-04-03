@@ -31,13 +31,14 @@ I don't have a software background. What I do have is a habit of getting curious
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeCaseus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeCaseus&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeCaseus/LeCaseus/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeCaseus/LeCaseus/output/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/LeCaseus/LeCaseus/output/snake.svg" />
+  </picture>
 </div>
 
 ---
