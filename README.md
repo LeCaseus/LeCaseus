@@ -2,7 +2,7 @@
 	<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzU2ZjYzMW1jbnoxNmZyMzYyMm4xbWRieDNxMWxpNGo4dmRuZHh2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uJrdgHANd85RC/giphy.gif" width="120"/>
 </div>
 
-<h3 align="center">Chezter Vargas</h3>
+<h3 align="center">˜”*°•.˜”*°• ¢нєzтєя ναяgαѕ •°*”˜.•°*”˜</h3>
 <p align="center">Hello there! I am a biomedical engineer that happened to pick up C++ as a hobby.<br>I'm not well versed in any programming disciplines but I try my best anyway.</p>
 
 <p align="center">
