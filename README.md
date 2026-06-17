@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-c++-000?style=flat-square&logo=cplusplus"/>
 </p>
 
-<p align="center">[currently I am modifying my linux .dotfiles and working on a locally hosted AI assistant]</p>
+<p align="center">[I am figuring out how to manage my files because I somehow turned my laptop into a homelab]</p>
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh4Ym1yZXFqaDVteXkyZjMybXZzYmhqMjM4OWMzNG4ycnB2a2w5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rvkUS5bDWOj8eb9pOL/giphy.gif" width="60"/>
